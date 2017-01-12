@@ -1,0 +1,1 @@
+require 'go_count/go_counter'
